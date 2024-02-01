@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/blaise tyrel billones daga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="blaise tyrel billones daga" height="30" width="40" /></a>
+<a href="https://fb.com/blaisetyrel.billones" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="blaise tyrel billones daga" height="30" width="40" /></a>
 <a href="https://instagram.com/blaise.billones" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="blaise.billones" height="30" width="40" /></a>
 </p>
 
