@@ -47,4 +47,10 @@
   </a>
 </div>
 
-###
+
+- 🌱 I’m currently learning **Ionic Framework**
+
+- 📫 How to reach me **blaisedaga21@gmail.com**
+
+<p align="left">
+</p>
