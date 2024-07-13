@@ -1,4 +1,4 @@
-<h2 align="center">for(bool i=true;!(i=false);puts("Hi, I'm Blaise Tyrel"));</h2>
+<h2 align="center">for(bool i=true;!(i=false);puts("Hi, AkiO-TheGingerCat"));</h2>
 
 ###
 
