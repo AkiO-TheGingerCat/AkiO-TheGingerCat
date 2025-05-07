@@ -1,6 +1,6 @@
 <!-- Bongo Cat Banner -->
 <p align="center">
-  <a href="https://app.daily.dev/akiothegingercat"><img src="./devcard.png" width="652" alt="AkiO's Dev Card"/></a>
+  <a href="https://app.daily.dev/akiothegingercat"><img src="https://api.daily.dev/devcards/v2/780atSF9ArAtNoydjeXEd.png?type=wide&r=1x6" width="652" alt="AkiO's Dev Card"/></a>
 </p>
 <h4 align="center">"A Bachelor of Science in Information Systems student at Zamboanga del Sur Provincial Government College – Aurora."</h4>
 
